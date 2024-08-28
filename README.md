@@ -28,7 +28,7 @@ Mini program for bisecting different versions of [commonmark-java](https://githu
 <dependency>
     <groupId>com.github.nextjournal</groupId>
     <artifactId>commonmark-java</artifactId>
-    <version>15558f7296349e265049f38eb2939817f0128423</version>
+    <version>0e979ef8f2fcd657214bf37fdd99aea8073068cf</version>
 </dependency>
 ```
 
